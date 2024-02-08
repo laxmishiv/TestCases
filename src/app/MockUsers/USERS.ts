@@ -1,0 +1,20 @@
+export const USERS={
+    1:{
+        id:1,
+        name:"Lax",
+        age:24,
+        gender:"female"
+    },
+    2:{
+        id:2,
+        name:"Mik",
+        age:22,
+        gender:"female"
+    },
+    3:{
+        id:3,
+        name:"Luck",
+        age:21,
+        gender:"female" 
+    }
+}
